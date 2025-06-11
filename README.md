@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! Bom dia,boa tarde e muito boa noite.  
 
-<!--
-**Annagps135/Annagps135** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annalayssagaldino@gmail.com)
 
-Here are some ideas to get you started:
+![Anna GitHub stats](https://github-readme-stats.vercel.app/api?username=Annagps135&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## linguagens
+
+<div style="display: inline_block"><br/>
+  
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="python" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+ 
+</div>
